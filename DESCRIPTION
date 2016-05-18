@@ -1,0 +1,11 @@
+Package: GTC
+Type: Package
+Title: Implementation of the game "Guess The Correlation"
+Version: 0.1
+Date: 2016-05-18
+Author: A. K. Jensen
+Maintainer: A. K. Jensen <aeje@sund.ku.dk>
+Depends: mvtnorm
+Description: A fun and wholesome game for the whole family.
+License: GPL (>= 2)
+LazyData: TRUE

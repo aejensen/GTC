@@ -1,0 +1,2 @@
+export(guessTheCorrelation)
+import(mvtnorm)
